@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**djmenkveld/djmenkveld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dirk Menkveld** – freelance Product Owner with a love for sports, tech, and building great digital products.
 
-Here are some ideas to get you started:
+### 💼 What I Do
+- Help companies launch and scale SaaS products  
+- Combine Agile thinking with hands-on execution  
+- Founder @ [Koppa](https://www.gokoppa.com/), previously co-founded Yunoo (acquired by AFAS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚽ Interests
+- Sports tech, cloud platforms & all things digital  
+- Always exploring ways to bring fans and teams closer
+
+### 💬 Let’s Connect
+- [LinkedIn](https://nl.linkedin.com/in/djmenkveld)  
+- [stack83.com](https://www.stack83.com/)
+
+### ⚡ Fun Fact
+Built multiple whitelabel platforms for sports tournaments worldwide 🌍
